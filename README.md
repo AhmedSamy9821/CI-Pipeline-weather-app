@@ -1,4 +1,3 @@
----
 # CI Pipeline with GitHub Actions
 
 ## Overview
