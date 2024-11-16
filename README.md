@@ -1,4 +1,4 @@
-# CI Pipeline with GitHub Actions
+# CI Pipeline for weather app
 
 ## Overview
 
